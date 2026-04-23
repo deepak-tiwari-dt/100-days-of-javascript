@@ -1,2 +1,3 @@
 # A consistent coding journey to master JavaScript in 100 days.
+
 This repository contains daily practice programs, problem-solving exercises, mini-projects, and core concept implementations covering everything from fundamentals to advanced topics like data structures, DOM manipulation, asynchronous programming, APIs, and modern ES6+ features. The goal is to build strong problem-solving skills, deepen JavaScript understanding, and gain hands-on experience through consistent daily coding.
