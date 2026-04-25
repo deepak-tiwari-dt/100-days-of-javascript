@@ -1,13 +1,17 @@
+// Function declaration
 function calcAge(age) {
-	return age * 365;
+  return age * 365; // converts years to days
 }
 
+// Arrow function (block body)
 const calcAge = (age) => {
-  return age * 365;
+  return age * 365; // explicit return
 }
 
-const calcAge = (age) => age * 365;
+// Arrow function (concise)
+const calcAge = (age) => age * 365; // implicit return
 
+// Function expression
 const calcAge = function(age) {
-  return age * 365;
+  return age * 365; // converts to days
 }

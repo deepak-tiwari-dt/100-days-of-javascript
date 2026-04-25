@@ -1,10 +1,12 @@
+// Function declaration
 function hello() {
-  return "Hello, World!";
+  return "Hello, World!"; // returns greeting
 }
 
+// Arrow function (block body)
 const hello = () => {
-  return "Hello, World!";
+  return "Hello, World!"; // explicit return
 }
 
-const hello = () => "Hello, World!";
-
+// Arrow function (concise)
+const hello = () => "Hello, World!"; // implicit return

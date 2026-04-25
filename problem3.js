@@ -1,13 +1,17 @@
+// Function declaration
 function convert(minutes) {
-	return minutes * 60;
+  return minutes * 60; // converts minutes to seconds
 }
 
-const convert = (minutest) => {
-  return minutes * 60;
+// Arrow function (block body)
+const convert = (minutes) => {
+  return minutes * 60; // explicit return
 }
 
-const convert = (minutes) => minutes * 60;
+// Arrow function (concise)
+const convert = (minutes) => minutes * 60; // implicit return
 
+// Function expression
 const convert = function(minutes) {
-  return minutes * 60;
+  return minutes * 60; // returns seconds
 }
